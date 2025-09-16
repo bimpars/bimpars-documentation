@@ -1,0 +1,278 @@
+{
+  "Element ID": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Creator Finder": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Information": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Active View": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Hierarchy": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "DUDUL": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Type": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Select by Search for Value of Instance Parameters": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Select based on Existence of Parameters Values": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "All Elements in Selected Categories": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "All Elements in Selected Views": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "All Elements on Selected Levels": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Ownership of Elements": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Unbound Rooms": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Mirrored Doors": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "IDs from Excel": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Reduce Selection by ID": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Reduce Selection by OST Categories": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Reduce Selection by Searching Value of Instance Parameters": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Reduce Selection by Existence of Parameters Values": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Delete Elements by ID": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Delete Elements by IDs from Excel": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Delete Elements by Type Filter": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Delete All DirectShape Elements": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Delete All Elements of OST Category": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Search Values of Parameters by Filter": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Search Values of Parameters by Filter for Family Document": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Snipe Parameter Value": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Snipe Parameter Value for Family Document": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Dictionary": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Check Existence of Parameters Values": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Check Parameter Against Category": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Delete Parameter Completely from Model": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Search for Value of Instance Parameters": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Search for Any Value": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Pair Comparer": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Comparer of Multiple Elements": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Same Value for All Selected Elements": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Copy from One Parameter to Another Parameter": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "List Makers of Values from Excel": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Batch Parameter Set using Dataset": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "ID Generator": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Parameter Value Editor": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Parameter Value Editor for Special Characters": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Value of Parameter for Selected Elements": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  },
+  "Desired Character in Value of Parameter for Selected Elements": {
+    "documentation": true,
+    "play_video": false,
+    "open_github": false,
+    "report_bug": true
+  }
+}
